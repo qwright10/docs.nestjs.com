@@ -56,7 +56,7 @@ To make the development process easier, let's add a few scripts to the `package.
 
 > info **Hint** Both scripts are dedicated for development purposes only.
 
-Now, open up the terminal and run the follwoing command:
+Now, open up the terminal and run the following command:
 
 ```bash
 $ npm run build:swc
